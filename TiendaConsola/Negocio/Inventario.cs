@@ -28,7 +28,6 @@ namespace TiendaConsola.Negocio
                 unidades.Remove(encontrada);
         }
 
-        // Devuelve un Producto por cada tipo distinto
         public List<Producto> ObtenerProductos()
         {
             List<Producto> resultado = new List<Producto>();
