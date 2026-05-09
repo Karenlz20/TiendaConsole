@@ -1,0 +1,14 @@
+C:\Programacion II\TiendaConsola\bin\Debug\net8.0\TiendaConsola.exe
+C:\Programacion II\TiendaConsola\bin\Debug\net8.0\TiendaConsola.deps.json
+C:\Programacion II\TiendaConsola\bin\Debug\net8.0\TiendaConsola.runtimeconfig.json
+C:\Programacion II\TiendaConsola\bin\Debug\net8.0\TiendaConsola.dll
+C:\Programacion II\TiendaConsola\bin\Debug\net8.0\TiendaConsola.pdb
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.AssemblyInfoInputs.cache
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.AssemblyInfo.cs
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.csproj.CoreCompileInputs.cache
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.dll
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\refint\TiendaConsola.dll
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.pdb
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\TiendaConsola.genruntimeconfig.cache
+C:\Programacion II\TiendaConsola\obj\Debug\net8.0\ref\TiendaConsola.dll
